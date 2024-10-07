@@ -1,0 +1,13 @@
+# Игнорировать NullStyle.scss
+NullStyle.scss
+
+# Игнорировать Index.html
+Index.html
+# Игнорировать все файлы .scss
+*.scss
+
+# Игнорировать все файлы .css
+*.css
+# Игнорировать папку Images
+Images/
+Styles*
